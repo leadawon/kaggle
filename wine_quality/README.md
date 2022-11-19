@@ -1,16 +1,16 @@
-1. introduction
-==============
+# 1. introduction
+
 
 와인 quality 맞추는 문제입니다.
 와인을 나타내는 여러 특징들이 주어집니다.
 
 <https://dacon.io/competitions/open/235610/overview/description>
 
-2. Model
-=======
+# 2. Model
 
-i. Dataset
---------
+
+### i. Dataset
+
 
 데이터는 
 
@@ -47,7 +47,7 @@ quality까지 11개의 features, 1439개의 데이터가 실수와 정수타입�
 * quality 
 
     
-ii. preprocessing
-------------------
+### ii. preprocessing
+
 input data는 1439
 
