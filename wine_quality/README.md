@@ -1,5 +1,5 @@
 1. introduction
-================
+==============
 
 와인 quality 맞추는 문제입니다.
 와인을 나타내는 여러 특징들이 주어집니다.
@@ -7,10 +7,10 @@
 <https://dacon.io/competitions/open/235610/overview/description>
 
 2. Model
-=========
+=======
 
 i. Dataset
-----------
+--------
 
 데이터는 
 
