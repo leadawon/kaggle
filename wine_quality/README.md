@@ -49,5 +49,9 @@ quality까지 11개의 features, 1439개의 데이터가 실수와 정수타입�
     
 ### ii. preprocessing
 
-input data는 1439
+input data는 1439 , 각각의 데이터는 각기 다른 feature를 가지고 있다. 
+
+##### ii.1 Initialization
+
+
 
