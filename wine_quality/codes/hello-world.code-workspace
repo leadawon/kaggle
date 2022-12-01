@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../hello-world"
+		},
+		{
+			"name": "Natrual_Language_P",
+			"path": "../../../Natrual_Language_P"
+		},
+		{
+			"name": "kaggle",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
